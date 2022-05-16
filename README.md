@@ -1,1 +1,1 @@
-# noob-jerry
+# smart-jerry
